@@ -24,4 +24,5 @@ If you wish to use this code for yourself, you can email me at bharatsrirangam@g
 ## Authors
 
 -Bharat Srirangam
+
 -The wonderful TA's of CS1331 during the fall of 2016 at Georgia Tech. 
