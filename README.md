@@ -10,6 +10,8 @@ You will need Java 7 and Javafx 2.0 or later in order to run the game and play.
 In order to run this game, download the src folder into whichever directory you wish to keep the game and run the command 
 "java -cp src/main/java runner.CivilizationGame". Be sure to be in the same directory that the src folder is in. 
 
+A few notes to keep in mind while you're playing. Your settlement is in the top right corner. If you click on your own settlement, you can choose from the provided options to interact with the settlement. If you want to create a unit to move around, click on the surrounding squares from a settlement to get the option to make the unit. If you click on a unit, you get the option to use one of it's actions. You will notice the enemy units on the field, they will try to come towards your settlement and destroy it. Don't let them! All of the Units have special purposes and abilities except a generic unit. You win if you are able to move your units to the enemy settlement in the bottom left corner of the game map and destroy it. 
+
 ## Built With
 
 * Java 7
